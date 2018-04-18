@@ -1,0 +1,8 @@
+{
+  "name": "AddShoppers",
+  "global": true,
+  "javascript": "addshoppers",
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "imports": ["confirmation"]
+}
